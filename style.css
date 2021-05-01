@@ -177,7 +177,7 @@
 
   .card_img {
     width: 100%;
-    height: 34%;
+    height: 24%;
     margin: 20px 0px;
   }
 
@@ -192,6 +192,19 @@
   }
   .total_col
   {
-    height: 25%;
+    height: 15%;
+    margin-bottom: 30px;
   }
+
+  #special-features .container-fluid
+  {
+    padding: 3% 15%;
+    margin-bottom: 30px;
+  }
+
+  #pricing .container-fluid {
+    text-align: center;
+    padding: 3% 15%;
+  }
+
 }
