@@ -193,18 +193,18 @@
   .total_col
   {
     height: 15%;
-    margin-bottom: 30px;
+    margin: 30px;
   }
 
   #special-features .container-fluid
   {
-    padding: 3% 15%;
+    padding: 3% 8%;
     margin-bottom: 30px;
   }
 
   #pricing .container-fluid {
     text-align: center;
-    padding: 3% 15%;
+    padding: 3% 8%;
   }
 
 }
