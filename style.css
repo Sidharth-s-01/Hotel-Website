@@ -206,5 +206,10 @@
     text-align: center;
     padding: 3% 8%;
   }
+  
+  .single_feat
+  {
+    margin: 20px 0px;
+  }
 
 }
