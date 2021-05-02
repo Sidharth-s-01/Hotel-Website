@@ -57,7 +57,7 @@
 }
 
 .single_feat {
-  padding: 5px;
+  margin-bottom:20px;
 }
 
 .feature_start_text {
@@ -109,7 +109,6 @@
   font-size: 3.5rem;
   font-weight:bolder;
   line-height: 1.5;
-  padding: 50px 100px;
 }
 
 .testimonial-section .container-fluid {
