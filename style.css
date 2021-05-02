@@ -1,4 +1,8 @@
 /* title section */
+body
+{
+ text-align:center; 
+}
 #title {
   background-color: #3edbf0;
 }
@@ -105,11 +109,12 @@
 
 .testimonial-text {
   color: #fff;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 3.5rem;
-  font-weight:bolder;
+  font-family: 'Cardo', serif;
+  font-size: 2.5rem;
   line-height: 1.5;
+
 }
+
 
 .testimonial-section .container-fluid {
   padding: 3% 10% 1%;
@@ -214,17 +219,5 @@
   }
   
   
-  .testimonial-text {
-  color: #fff;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 2.5rem;
-  font-weight:bolder;
-  line-height: 1.5;
- 
-}
-  .testimonial-section .container-fluid {
-  padding: 3% 2% 3%;
-    text-align: center;
-}
-
+  
 }
